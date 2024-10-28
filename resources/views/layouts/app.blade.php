@@ -9,9 +9,6 @@
 </head>
 
 <body>
-    <!--header-->
-    @include("partial.header")
-
     <!--contents-->
     <main>
         @yield("main-content")
